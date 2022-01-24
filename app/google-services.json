@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997771386268",
+    "project_id": "feedapp-a33a7",
+    "storage_bucket": "feedapp-a33a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997771386268:android:a0d327fc8512f9d65c3c59",
+        "android_client_info": {
+          "package_name": "iamzen.in.smile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997771386268-ol1bdec4birmiv7ksmn4tmd2n9f1jrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDuIMLXFX7-F77hHKM50jXmN_V5neyTMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997771386268-ol1bdec4birmiv7ksmn4tmd2n9f1jrjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

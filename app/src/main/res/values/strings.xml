@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">smile</string>
+    <string name="default_web_id">997771386268-ol1bdec4birmiv7ksmn4tmd2n9f1jrjq.apps.googleusercontent.com</string>
+    <string name="addpost">addPost</string>
+    <string name="post">Post</string>
+    <string name="how_do_you_tell_about_world_waiting">how do you tell about world waiting</string>
+    <string name="logout_menu">logout</string>
+    <string name="ok">OK</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+</resources>
